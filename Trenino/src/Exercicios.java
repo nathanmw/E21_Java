@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class Exercicios {
-
+public class Exercicios {  
+									// OK
 	public static void main(String[] args) {
 		Scanner entradaDados = new Scanner(System.in);
 		double valor1, valor2;
-
+		
 		try {
 			System.out.println("Digito o Primeiro Valor:");
 			valor1 = entradaDados.nextDouble();
